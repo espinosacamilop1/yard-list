@@ -1,6 +1,6 @@
 import React, {useState,useEffect} from 'react';
 import updateData from '../../firebase/firestore/updateData';
-
+import '../scss/client.scss'
 
 const Client = ({ id, NOMBRE, DIRECCION, FRECUENCIA, nextDate, TELEFONO, PAGO }) => {
 
@@ -57,7 +57,7 @@ const Client = ({ id, NOMBRE, DIRECCION, FRECUENCIA, nextDate, TELEFONO, PAGO })
       return (
 
     <div className='card' style={{backgroundColor: "white", borderRadius: "5px", marginBottom: '2rem'}}>
-      <div className='card-content'>
+      <div className='card-content-input'>
           <input 
                 style={{color: "black"}} 
                 value={client.NOMBRE}
