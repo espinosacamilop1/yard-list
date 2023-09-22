@@ -1,0 +1,18 @@
+.card-content-input {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding: 1rem;
+
+    input {
+        background-color: white;
+        color: black;
+        padding: 1rem;
+        border-radius: 5px;
+        border: 2px black solid;
+    }
+
+    button {
+        width: 100px;
+    }
+}
