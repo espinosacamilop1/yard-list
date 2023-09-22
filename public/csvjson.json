@@ -1,0 +1,714 @@
+[
+  {
+    "NOMBRE": "ODALYS",
+    "DIRECCION": "524 E 64 ST, HIALEAH, 33013",
+    "TELEFONO": "786-719-9020",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-09-05",
+    "PAGO": 30
+  },
+  {
+    "NOMBRE": "VECINA ODALYS",
+    "DIRECCION": "526 E 64 ST, HIALEAH, 33013",
+    "TELEFONO": "786-773-4338",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-09-05",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "GREYSI",
+    "DIRECCION": "470 E 57 ST, HIALEAH, 33013",
+    "TELEFONO": "786-443-0906",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-14",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "MAILIN",
+    "DIRECCION": "4330 NW 198TH TERRACE MIAMI GARDENS, 33055",
+    "TELEFONO": "786-553-1146",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-09-07",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "PASTOR",
+    "DIRECCION": "5461 E 3RD AVE, HIALEAH, 33013",
+    "TELEFONO": "305-822-9570",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-09-05",
+    "PAGO": 30
+  },
+  {
+    "NOMBRE": "ISMAY",
+    "DIRECCION": "7150 W 9 LN, HIALEAH, 33014",
+    "TELEFONO": "786-910-4312",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-08-29",
+    "PAGO": 30
+  },
+  {
+    "NOMBRE": "JONATHAN BARCOS",
+    "DIRECCION": "18631 NW 28 AVE, MIAMI GARDENS, 33056",
+    "TELEFONO": "305-336-9530",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-08-31",
+    "PAGO": 65
+  },
+  {
+    "NOMBRE": "JOHSON JUCINO",
+    "DIRECCION": "2245 NW 91 ST, MIAMI, 33147",
+    "TELEFONO": "786-873-3203",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-25",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "YASMANI",
+    "DIRECCION": "7130 W 9 LN, HIALEAH, 33014",
+    "TELEFONO": "786-757-8252",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-08-30",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "JOSIE FAGUNDO",
+    "DIRECCION": "221 E 55 ST, HIALEAH, 33013",
+    "TELEFONO": "786-720-4511",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-08-28",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "JOHN",
+    "DIRECCION": "340 W 60 ST, HIALEAH, 33012",
+    "TELEFONO": "305-323-6208",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-08-31",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "JULIAN CARDONA",
+    "DIRECCION": "8138 NW 191 ST, HIALEAH, 33015",
+    "TELEFONO": "786-389-8411",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-09-01",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "DULIAN MACHADO",
+    "DIRECCION": "150 W 40 PL, HIALEAH, 33012",
+    "TELEFONO": "305-560-3220",
+    "FRECUENCIA": "40 DAYS",
+    "nextDate": "2023-10-10",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "DULIAN MACHADO",
+    "DIRECCION": "358 W 58 ST, HIALEAH, 33012",
+    "TELEFONO": "305-560-3220",
+    "FRECUENCIA": "40 DAYS",
+    "nextDate": "2023-08-30",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "CAMILIN",
+    "DIRECCION": "18521 NW 82 AVE, HIALEAH, 33015",
+    "TELEFONO": "786-910-1593",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-09-07",
+    "PAGO": 30
+  },
+  {
+    "NOMBRE": "CHICHA OSIRIS",
+    "DIRECCION": "7915 NW 190 TERRACE, HIALEAH, 33015",
+    "TELEFONO": "305-409-7851",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-08-30",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "LALY EVELIO",
+    "DIRECCION": "972 W 56 ST, HIALEAH, 33012",
+    "TELEFONO": "305-484-1236",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-20",
+    "PAGO": 30
+  },
+  {
+    "NOMBRE": "MARLEN BOFA",
+    "DIRECCION": "2330 NW 97 AVE, MIAMI, 33147",
+    "TELEFONO": "786-624-1802",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-09-05",
+    "PAGO": 60
+  },
+  {
+    "NOMBRE": "JULIO",
+    "DIRECCION": "870 W 70 PL , HIALEAH, 33014",
+    "TELEFONO": "305-821-7765",
+    "FRECUENCIA": "20 DAYS",
+    "nextDate": "2023-09-09",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "BERTHA",
+    "DIRECCION": "222 E 55 ST, HIALEAH, 33013",
+    "TELEFONO": "305-558-2621",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-09-05",
+    "PAGO": 30
+  },
+  {
+    "NOMBRE": "KARELIA",
+    "DIRECCION": "8740 NW 33RD AVE RD, MIAMI, 33147",
+    "TELEFONO": "786-856-0274",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-15",
+    "PAGO": 30
+  },
+  {
+    "NOMBRE": "GLORIA ORTEGA",
+    "DIRECCION": "16308 NW 91 AVE, MIAMI LAKES, 33018",
+    "TELEFONO": "305-219-2700",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-07",
+    "PAGO": 30
+  },
+  {
+    "NOMBRE": "RICHARD IVETTE",
+    "DIRECCION": "18531 NW 82 AVE, HIALEAH, 33015",
+    "TELEFONO": "305-788-0746",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-24",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "CARI",
+    "DIRECCION": "5671 W 8 LN, HIALEAH, 33012",
+    "TELEFONO": "786-346-0057",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-08-28",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "ESPOSA ANTONIO",
+    "DIRECCION": "5845 SW 94 AVE, MIAMI, 33173",
+    "TELEFONO": "786-344-2700",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-09-06",
+    "PAGO": 30
+  },
+  {
+    "NOMBRE": "EDUARDO",
+    "DIRECCION": "224 E 55 ST, HIALEAH, 33013",
+    "TELEFONO": "786-461-0512",
+    "FRECUENCIA": "20 DAYS",
+    "nextDate": "2023-08-28",
+    "PAGO": 30
+  },
+  {
+    "NOMBRE": "DENNYS",
+    "DIRECCION": "79 W 58 ST, HIALEAH, 33013",
+    "TELEFONO": "786-423-3057",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-11",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "ERNA",
+    "DIRECCION": "440 E 55 ST, HIALEAH, 33013",
+    "TELEFONO": "305-297-6811",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-11",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "ISBEY 1",
+    "DIRECCION": "411 W 39 PL, HIALEAH, 33012",
+    "TELEFONO": "786-445-1023",
+    "FRECUENCIA": "20 DAYS",
+    "nextDate": "2023-09-11",
+    "PAGO": 60
+  },
+  {
+    "NOMBRE": "ISBEY 2",
+    "DIRECCION": "651 E 43 ST, HIALEAH,33013",
+    "TELEFONO": "786-445-1023",
+    "FRECUENCIA": "20 DAYS",
+    "nextDate": "2023-09-11",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "FELIPE",
+    "DIRECCION": "1100 SW 88 AVE, MIAMI, 33174",
+    "TELEFONO": "305-431-1777",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-02",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "BRUNILDA SUEGRA REYSI",
+    "DIRECCION": "10460 SW 16 ST, MIAMI, 33165",
+    "TELEFONO": "305-748-8849",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-08",
+    "PAGO": 60
+  },
+  {
+    "NOMBRE": "ALEIDA",
+    "DIRECCION": "1680 SW 67 AVE, MIAMI, 33155",
+    "TELEFONO": "786-897-4176",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-08",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "JOBANY CARTONES",
+    "DIRECCION": "3500 NW 80 ST, MIAMI, 33147",
+    "TELEFONO": "786-975-7661",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-08-31",
+    "PAGO": 60
+  },
+  {
+    "NOMBRE": "YURI",
+    "DIRECCION": "7541 MADEIRA ST, MIRAMAR, 33023",
+    "TELEFONO": "786-303-6970",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-08-28",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "JOSE",
+    "DIRECCION": "1680 SW 67 CT, MIAMI, 33155",
+    "TELEFONO": "305316-2166",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-09-08",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "JESUS EVELIO",
+    "DIRECCION": "968 W 56 ST, HIALEAH, 33012",
+    "TELEFONO": "786-447-3247",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-17",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "CESAR",
+    "DIRECCION": "8761 NW 33 PL, MIAMI, 33147",
+    "TELEFONO": "757-324-4603",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-02",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "ARODI",
+    "DIRECCION": "3275 NW 87 TERRACE, MIAMI, 33147",
+    "TELEFONO": "786-201-5098",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-15",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "MARITZA OSIRIS",
+    "DIRECCION": "7950 NW 190 TERRACE, HIALEAH, 33015",
+    "TELEFONO": "786-285-0886",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-08-30",
+    "PAGO": 60
+  },
+  {
+    "NOMBRE": "LESLIE BOFA 2",
+    "DIRECCION": "200 SW 8 AVE, HALLANDALE BEACH, 33009",
+    "TELEFONO": "786-372-2298",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-01",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "MARISOL JOSIE FAGUNDO",
+    "DIRECCION": "220 E 55 ST, HIALEAH, 33013",
+    "TELEFONO": "305-984-3718",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-08-29",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "ANDRES",
+    "DIRECCION": "389 W 4 AVE, HIALEAH, 33012",
+    "TELEFONO": "786-343-8930",
+    "FRECUENCIA": "20 DAYS",
+    "nextDate": "2023-09-11",
+    "PAGO": 60
+  },
+  {
+    "NOMBRE": "YASER MI CASA",
+    "DIRECCION": "3325 NW 87TH TERRACE, MIAMI, 33147",
+    "TELEFONO": "786-222-8108",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-15",
+    "PAGO": 25
+  },
+  {
+    "NOMBRE": "WILLY RUIZ PIEDRITAS",
+    "DIRECCION": "359 W 58 ST, HIALEAH, 33012",
+    "TELEFONO": "305-785-4069",
+    "FRECUENCIA": "ON CALL",
+    "nextDate": "2023-08-29",
+    "PAGO": 20
+  },
+  {
+    "NOMBRE": "JORGE 1",
+    "DIRECCION": "260 W 56 ST, HIALEAH, 33012",
+    "TELEFONO": "786-370-7807",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-21",
+    "PAGO": 70
+  },
+  {
+    "NOMBRE": "JORGE 2 OLGA",
+    "DIRECCION": "506 E 39 ST, HIALEAH, 33013",
+    "TELEFONO": "786-370-7807",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-21",
+    "PAGO": 60
+  },
+  {
+    "NOMBRE": "JORGE 3",
+    "DIRECCION": "1275 W 31 ST, HIALEAH, 33012",
+    "TELEFONO": "786-370-7807",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-22",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "JORGE 4",
+    "DIRECCION": "640 E 55 ST, HIALEAH, 33013",
+    "TELEFONO": "786-370-7807",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-23",
+    "PAGO": 60
+  },
+  {
+    "NOMBRE": "MARTHA FAMILIA DAILIN",
+    "DIRECCION": "13230 SW 34 ST, MIAMI, 33175",
+    "TELEFONO": "786-663-4750",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-20",
+    "PAGO": 70
+  },
+  {
+    "NOMBRE": "CARLOS LORENZO KARELIA",
+    "DIRECCION": "8760 NW 33RD AVE RD, MIAMI, 33147",
+    "TELEFONO": "305-417-3282",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-15",
+    "PAGO": 70
+  },
+  {
+    "NOMBRE": "DAYAISI",
+    "DIRECCION": "2255 NW 165 ST, MIAMI GARDENS, 33054",
+    "TELEFONO": "786-502-7836",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-24",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "MIREYA KARELIA",
+    "DIRECCION": "2891 NW 47 AVE, MIAMI, 33147",
+    "TELEFONO": "786-443-5594",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-27",
+    "PAGO": 100
+  },
+  {
+    "NOMBRE": "VICTOR",
+    "DIRECCION": "9435 SW 58 ST, MIAMI, 33173",
+    "TELEFONO": "786-277-1868",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-09-06",
+    "PAGO": 30
+  },
+  {
+    "NOMBRE": "VIVIAN VECINA ISBEY",
+    "DIRECCION": "651 E 43 ST, HIALEAH,33013",
+    "TELEFONO": "305-915-7555",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-23",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "FRANKLIN HIJO VIVIAN",
+    "DIRECCION": "152 W 37 ST, HIALEAH, 33012",
+    "TELEFONO": "305-761-4831",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-07",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "FELIX MAILIN",
+    "DIRECCION": "4321 NW 198 TERRACE, MIAMI GARDENS, 33055",
+    "TELEFONO": "786-380-5580",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-09-07",
+    "PAGO": 30
+  },
+  {
+    "NOMBRE": "LEANNA JULIAN CARDONA",
+    "DIRECCION": "8132 NW 191 ST, HIALEAH, 33015",
+    "TELEFONO": "786-291-7822",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-08-30",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "ALBERTO",
+    "DIRECCION": "8460 SW 35 TERRACE, MIAMI, 33155",
+    "TELEFONO": "786-286-2211",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-20",
+    "PAGO": 60
+  },
+  {
+    "NOMBRE": "TONY RENTA",
+    "DIRECCION": "WESTWARD DR, MIAMI SPRINGS, 33166",
+    "TELEFONO": "786-459-5923",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-21",
+    "PAGO": 60
+  },
+  {
+    "NOMBRE": "VECINA FELIPE",
+    "DIRECCION": "1090 SW 88 AVE, MIAMI 331274",
+    "TELEFONO": "305-498-7452",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-09-01",
+    "PAGO": 60
+  },
+  {
+    "NOMBRE": "EVELIO",
+    "DIRECCION": "970 W 56 ST, HIALEAH, 33012",
+    "TELEFONO": "305-557-1408",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-08-28",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "OSIRIS",
+    "DIRECCION": "7927 NW 190 TERRACE, HIALEAH, 33012",
+    "TELEFONO": "786-308-5342",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-08-30",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "SASHA",
+    "DIRECCION": "460 NW 198 ST, MIAMI GARDENS, 33169",
+    "TELEFONO": "954-228-5087",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-08-31",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "CARLOS YASMANI",
+    "DIRECCION": "895 W 71 PL, HIALEAH, 33014",
+    "TELEFONO": "786-499-1731",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-08-31",
+    "PAGO": 30
+  },
+  {
+    "NOMBRE": "SECURITY AMIGO",
+    "DIRECCION": "16921 NW 75 CT, HIALEAH, 33015",
+    "TELEFONO": "786-317-4456",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-11",
+    "PAGO": 30
+  },
+  {
+    "NOMBRE": "NOVELIA EVELIO",
+    "DIRECCION": "990 W 56 ST, HIALEAH, 33012",
+    "TELEFONO": "305-527-6852",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-17",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "ANNEY",
+    "DIRECCION": "556 E 62 ST, HIALEAH, 33012",
+    "TELEFONO": "305-283-7260",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-08-29",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "MARIA",
+    "DIRECCION": "3205 W 14 AVE, HIALEAH, 33012",
+    "TELEFONO": "786-308-1897",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-08-29",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "IVETTE",
+    "DIRECCION": "80 E 58 ST, HIALEAH, 33013",
+    "TELEFONO": "305-619-5148",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-07",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "MARIA",
+    "DIRECCION": "240 NW 198 ST, MIAMI GARDENS, 33179",
+    "TELEFONO": "305-725-5084",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-08-31",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "ERNESTO",
+    "DIRECCION": "442 E 55 ST, HIALEAH, 33013",
+    "TELEFONO": "305-833-9315",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-08-30",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "ALEJANDRO",
+    "DIRECCION": "520 NE 135 ST, NORTH MIAMI, 33161",
+    "TELEFONO": "561-838-3834",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-08-31",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "ANGIE MARTHA HERMANA CHICHA",
+    "DIRECCION": "7688 NW 181 ST, HIALEAH, 33015",
+    "TELEFONO": "305-343-7777",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-10",
+    "PAGO": 25
+  },
+  {
+    "NOMBRE": "CONSUELO",
+    "DIRECCION": "5561 W 8TH LN, HIALEAH, 33012",
+    "TELEFONO": "786-887-2456",
+    "FRECUENCIA": "20 DAYS",
+    "nextDate": "2023-09-15",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "MARIA ISBEY",
+    "DIRECCION": "651 E 43 ST, HIALEAH,33013",
+    "TELEFONO": "",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-11",
+    "PAGO": 20
+  },
+  {
+    "NOMBRE": "JESUS",
+    "DIRECCION": "261 E 62 ST, HIALEAH, 33013",
+    "TELEFONO": "786-317-0118",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-02",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "CARLOS VECINO JORGE",
+    "DIRECCION": "5531 W 2 AVE, HIALEAH, 33012",
+    "TELEFONO": "786-716-4328",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-09-05",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "MICHEL MEDEROS",
+    "DIRECCION": "5531 W 2 AVE, HIALEAH, 33012",
+    "TELEFONO": "786-337-29-45",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-08-30",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "ANA VECINA JULIO",
+    "DIRECCION": "847 W 70 PL, HIALEAH, 33012",
+    "TELEFONO": "786-431-5325",
+    "FRECUENCIA": "20 DAYS",
+    "nextDate": "2023-09-07",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "GIRON",
+    "DIRECCION": "5655 W 2 AVE, HIALEAH, 33012",
+    "TELEFONO": "786-422-3764",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-08",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "ELUDIO ESNADO",
+    "DIRECCION": "9262 BROAD MANOR RD, MIAMI, 33147",
+    "TELEFONO": "305-903-4171",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-11",
+    "PAGO": 50
+  },
+  {
+    "NOMBRE": "MARTHA",
+    "DIRECCION": "761 E 47 ST, HIALEAH. 33013",
+    "TELEFONO": "305-213-2106",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-14",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "RUBEN FARA",
+    "DIRECCION": "855 W 70 ST, HIALEAH, 33014",
+    "TELEFONO": "786-810-5597",
+    "FRECUENCIA": "20 DAYS",
+    "nextDate": "2023-09-07",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "LISSETTI",
+    "DIRECCION": "5661 W 11 AVE, HIALEAH, 33012",
+    "TELEFONO": "786-302-6959",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-09-12",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "ARMANDO",
+    "DIRECCION": "940 W 56 ST, HIALEAH, 33012",
+    "TELEFONO": "786-913-8696",
+    "FRECUENCIA": "20 DAYS",
+    "nextDate": "2023-08-28",
+    "PAGO": 30
+  },
+  {
+    "NOMBRE": "ADA",
+    "DIRECCION": "4220 NW 198 ST, MIAMI GARDENS, 33055",
+    "TELEFONO": "786-728-2754",
+    "FRECUENCIA": "BI-WEEKLY",
+    "nextDate": "2023-09-07",
+    "PAGO": 40
+  },
+  {
+    "NOMBRE": "ARBOLITO",
+    "DIRECCION": "2245 NW 91 ST, MIAMI, 33147",
+    "TELEFONO": "786-302-5671",
+    "FRECUENCIA": "MONTHLY",
+    "nextDate": "2023-09-25",
+    "PAGO": 20
+  },
+  {
+    "NOMBRE": "DIONISIO",
+    "DIRECCION": "6448 E 6 AVE, HIALEAH, 33013",
+    "TELEFONO": "305-833-1856",
+    "FRECUENCIA": "40 DAYS",
+    "nextDate": "2023-09-10",
+    "PAGO": 50
+  }
+]
