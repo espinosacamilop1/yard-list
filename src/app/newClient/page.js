@@ -3,7 +3,7 @@ import React, {useState} from 'react';
 import '../../scss/newClient.scss'
 import addData from '../../../firebase/firestore/addData';
 
-function newClient() {
+function NewClient() {
     const [client, setClient] = useState({
         NOMBRE: '',
         DIRECCION: '',
@@ -89,4 +89,4 @@ function newClient() {
   )
 }
 
-export default newClient
+export default NewClient
