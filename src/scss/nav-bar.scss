@@ -1,0 +1,12 @@
+.nav-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    background-color: white;
+    padding: 1rem 1rem;
+
+    button {
+        margin-right: 12px;
+        padding: 0.5rem;
+    }
+}
