@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.newClient {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #A5CCAB;
+
+    .nav-bar {
+        margin: 1rem;
+        
+        button {
+            background: #cccccc;
+            color: #333333;
+            border: none;
+            border-radius: 6px;
+            font-size: 16px;
+            text-transform: uppercase;
+            font-weight: 600;
+            height: 50px;
+            width: 170px;
+            padding: 1rem;
+            box-shadow: 1px 2px 5px gray;
+        }
+    }
+
+    .new-client-form {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+        max-width: 400px;
+        margin: auto;
+        gap: 1rem;
+
+        div {
+            display: flex;
+            flex-direction: column;
+
+            label {
+                font-family: Chivo;
+                color: #333333;
+            }
+    
+            input, select {
+                background: white;
+                border: none;
+                border-radius: 3px;
+                height: 30px;
+                width: 170px;
+                color: black;
+                padding: 1rem 0.5rem;
+                box-shadow: 1px 2px 5px gray;
+
+                &:focus-visible {
+                    outline: none;
+                    box-shadow: 5px 5px 5px gray;
+                }
+            }
+
+        }
+        button {
+            background: #cccccc;
+            color: #333333;
+         
+            border: none;
+            border-radius: 23px;
+         
+            font-size: 16px;
+            text-transform: uppercase;
+            font-weight: 600;
+         
+            height: 50px;
+            width: 170px;
+            
+            padding: 1rem;
+            box-shadow: 1px 2px 5px gray;
+        }
+    }
+}

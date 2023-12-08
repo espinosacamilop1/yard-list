@@ -6,6 +6,7 @@ import getDocument from "../../../firebase/firestore/getData"
 import { getWeekBeforeSunday, getUpcomingWeekFormatted, getClientNextDate } from '../../scripts/functions.js'
 import Client from '../Client';
 import updateClients from '../../../firebase/firestore/updateClients';
+import '../../scss/nav-bar.scss';
 
 function Page() {
     const { user } = useAuthContext()
@@ -45,7 +46,7 @@ function Page() {
         }
     };
 
-
+   
     const handleSubmit = async (event) => {
         event.preventDefault();
 
@@ -78,33 +79,54 @@ function Page() {
 
         return (
             <div>
-                <div>
+                <div className='nav-bar'>
                     <button style={{ marginRight: '12px' }} onClick={() => setComponent('allClients')}>
                         Todos los Patios
                     </button>
                     <button style={{ marginRight: '12px' }} onClick={() => setComponent('upcomingClients')}>
-                        Esta Semana
+                        Proxima Semana
                     </button>
                     <button onClick={() => setComponent('thisWeekClients')}>
-                        Semana Pasada
+                        Esta Semana
+                    </button>
+                    <button>
+                        <a href='/newClient'>Añadir Cliente</a>
                     </button>
                 </div>
+
+                <div class="list-labels-wrapper">
+                    <h2 className='nombre'>Nombre</h2>
+                    <h2 className='direccion'>Direccion</h2>
+                    <h2 className='frecuencia'>Frecuencia</h2>
+                    <h2 className='nextdate'>Proxima Fecha</h2>
+                    <h2 className='telefono'>Telefono</h2>
+                    <h2 className='pago'>Pago</h2>
+                </div>
+
+                <div className='client-wrapper'>
                 {clients.map((client, index) => (
                     <Client key={index} {...client} />
                 ))}</div>
+                </div>
         )
     } else if (component === 'upcomingClients') {
+        console.log(clients)
+
         return (
             <div>
-                <button style={{ marginRight: '12px' }} onClick={() => setComponent('allClients')}>
-                    Todos los Patios
-                </button>
-                <button style={{ marginRight: '12px' }} onClick={() => setComponent('upcomingClients')}>
-                    Esta Semana
-                </button>
-                <button onClick={() => setComponent('thisWeekClients')}>
-                    Semana Pasada
-                </button>
+                <div className='nav-bar'>
+                    <button style={{ marginRight: '12px' }} onClick={() => setComponent('allClients')}>
+                        Todos los Patios
+                    </button>
+                    <button style={{ marginRight: '12px' }} onClick={() => setComponent('upcomingClients')}>
+                        Proxima Semana
+                    </button>
+                    <button onClick={() => setComponent('thisWeekClients')}>
+                        Esta Semana
+                    </button>
+                    <button>
+                        <a href='/newClient'>Añadir Cliente</a>
+                    </button>
 
                 <div>
                     {clients
@@ -115,19 +137,37 @@ function Page() {
                         ))}
                 </div>
             </div>
+            </div>
         )
     } else if (component === 'thisWeekClients') {
+        console.log(clients)
+
         return (
             <div>
-                <button style={{ marginRight: '12px' }} onClick={() => setComponent('allClients')}>
-                    Todos los Patios
-                </button>
-                <button style={{ marginRight: '12px' }} onClick={() => setComponent('upcomingClients')}>
-                    Esta Semana
-                </button>
-                <button onClick={() => setComponent('thisWeekClients')}>
-                    Semana Pasada
-                </button>
+
+                <div className='nav-bar'>
+                    <button style={{ marginRight: '12px' }} onClick={() => setComponent('allClients')}>
+                        Todos los Patios
+                    </button>
+                    <button style={{ marginRight: '12px' }} onClick={() => setComponent('upcomingClients')}>
+                        Proxima Semana
+                    </button>
+                    <button onClick={() => setComponent('thisWeekClients')}>
+                        Esta Semana
+                    </button>
+                    <button>
+                        <a href='/newClient'>Añadir Cliente</a>
+                    </button>
+                </div>
+
+                <div class="list-labels-wrapper">
+                    <h2 className='nombre'>Nombre</h2>
+                    <h2 className='direccion'>Direccion</h2>
+                    <h2 className='frecuencia'>Frecuencia</h2>
+                    <h2 className='nextdate'>Proxima Fecha</h2>
+                    <h2 className='telefono'>Telefono</h2>
+                    <h2 className='pago'>Pago</h2>
+                </div>
 
                 <div>
                     <form onSubmit={handleSubmit}>
