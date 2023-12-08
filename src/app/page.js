@@ -3,6 +3,8 @@ import React from "react";
 import signIn from "../../firebase/auth/signin";
 import { useRouter } from 'next/navigation';
 import '../scss/login.scss';
+import '../scss/common.scss';
+
 
 function Page() {
     const [email, setEmail] = React.useState('')
